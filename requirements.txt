@@ -1,0 +1,2 @@
+# Buy-thon project dependencies
+streamlit==1.51.0
