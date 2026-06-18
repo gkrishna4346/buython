@@ -248,3 +248,19 @@ if st.session_state["shopping_started"]:
                             item,
                             None
                         )
+
+st.divider()
+
+st.markdown(
+    """
+    <div style='
+    text-align:center;
+    color:gray;
+    font-size:14px;
+    padding-top:10px;
+    '>
+    App built by Gopikrishna
+    </div>
+    """,
+    unsafe_allow_html=True
+)
